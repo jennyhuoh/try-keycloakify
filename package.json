@@ -1,0 +1,26 @@
+{
+  "name": "serendipity-keycloak-theme",
+  "version": "1.0.0",
+  "description": "A Keycloak theme for WULAB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennyhuoh/try-keycloakify.git"
+  },
+  "keywords": [
+    "Keycloak",
+    "Material Web Components"
+  ],
+  "author": "jennyhuoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennyhuoh/try-keycloakify/issues"
+  },
+  "homepage": "https://github.com/jennyhuoh/try-keycloakify#readme",
+  "dependencies": {
+    "material-components-web": "^14.0.0"
+  }
+}
